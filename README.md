@@ -1,8 +1,9 @@
+[README (1).txt](https://github.com/user-attachments/files/31767023/README.1.txt)
 ## Hi there 👋
 
 <!--
 **g00pkidd/g00pkidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+𝑯𝒆𝒍𝒍𝒐 𝒑𝒆𝒐𝒑𝒍𝒆 𝒊𝒗𝒆 𝒃𝒆𝒆𝒏 𝒘𝒂𝒊𝒕𝒊𝒏𝒈 𝒂𝒏𝒅 𝒑𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒉𝒊𝒔 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒇𝒐𝒓 𝒐𝒗𝒆𝒓 𝒂 𝒚𝒆𝒂𝒓 𝒂𝒏𝒅 𝒏𝒐𝒘 𝒊𝒕 𝒊𝒔 𝒇𝒊𝒏𝒂𝒍𝒍𝒚 𝒓𝒆𝒂𝒅𝒚 𝑻𝒉𝒆 𝑽 𝒍𝒂𝒃𝒔 𝒊𝒔 𝒂 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒎𝒂𝒅𝒆 𝒎𝒚 𝑭𝑰𝑫 𝒎𝒆 𝒘𝒉𝒊𝒄𝒉 𝒈𝒊𝒗𝒆𝒔 𝒕𝒉𝒆 𝒇𝒓𝒆𝒆𝒅𝒐𝒎 𝒕𝒐 𝒔𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝒘𝒉𝒐 𝒘𝒂𝒏𝒕𝒔 𝒕𝒐 𝒑𝒍𝒂𝒚 𝑹𝑬𝑨𝑳 𝒈𝒂𝒎𝒆𝒔 𝒐𝒏 𝒄𝒉𝒓𝒐𝒎𝒆𝒃𝒐𝒐𝒌𝒔 𝒘𝒊𝒕𝒉𝒐𝒖𝒕 𝒈𝒆𝒕𝒕𝒊𝒏𝒈 𝒃𝒍𝒐𝒄𝒌𝒆𝒅 𝑴𝒂𝒚 𝒚𝒐𝒖 𝒆𝒏𝒋𝒐𝒚.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
